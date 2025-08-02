@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "nome": "Emilly Maciel",
+  "photo": "https://avatars.githubusercontent.com/u/172136871?v=4",
+  "job": "Estudante de Engenharia de Software",
+  "location": "Salvador - BA",
+  "telefone": "(71) 99369-5558",
+  "email": "emillymaciel.lima@gmail.com",
   "skills": {
     "hardSkills": [
       {
