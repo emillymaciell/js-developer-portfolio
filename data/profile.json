@@ -46,13 +46,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Yu-Gi-Oh | Jo-ken-po Edition",
+      "url": "https://github.com/emillymaciell/js-yugioh-jokenpo",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokédex com JavaScript",
+      "url": "https://github.com/emillymaciell/bootcamp-santander-frontend/tree/main/pokedex",
       "github": true
     }
   ],
